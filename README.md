@@ -1,4 +1,4 @@
-## Who am i?
+## > whoami
 
 The software developer working primaryly with .net technology stack.
 Let's try github pages and see what can be done with it.
